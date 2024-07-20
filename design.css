@@ -154,6 +154,17 @@ body {
 
   .inside p {
     font-size: 13px;
-    letter-spacing: 3px;
+    letter-spacing: 2px;
     color: white;
- 
+    text-align: justify;
+    margin-top: 5px;
+  }
+
+  .inside a:hover {
+    text-decoration: underline;
+  }
+
+  .inside a {
+    color: white;
+    text-decoration: none;
+  }
